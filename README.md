@@ -3,7 +3,7 @@
 **A hands-on course exploring quantum machine learning algorithms using PennyLane.**  
 
 <div align="center">
-  <img src="https://pennylane.ai/qml/images/logo.png" alt="PennyLane Logo" width="200"/>
+  <img src="https://github.com/FLjv77/Quantum_ML_Course/blob/main/images/pennylane_icon.png" alt="PennyLane Logo" width="200"/>
   <br>
   <em>Blending quantum computing with machine learning through differentiable programming.</em>
 </div>
