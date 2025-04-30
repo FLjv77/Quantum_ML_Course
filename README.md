@@ -14,7 +14,7 @@
 ## Week 1
 - Introduction to Quantum Machine Learning
 - Introduction to Pennylane
-- Video Link [Watch](https://drive.google.com/drive/folders/1XAJF-5rifwB05-qVvVlA1ceA2f8YWC1U?usp=sharing)
+- [Video Link](https://drive.google.com/drive/folders/1XAJF-5rifwB05-qVvVlA1ceA2f8YWC1U?usp=sharing)
 
 ## Week 2
 - Introduction to Quantum Computing
