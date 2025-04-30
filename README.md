@@ -12,7 +12,9 @@
 # Course Video Resources
 
 ## Week 1
-- [Intro to Pennylane]([https://youtube.com/example1](https://drive.google.com/drive/folders/1XAJF-5rifwB05-qVvVlA1ceA2f8YWC1U?usp=sharing))  
+- [Introduction to Quantum Machine Learning]
+- [Introduction to Pennylane]
+- Video Link (https://youtube.com/example1](https://drive.google.com/drive/folders/1XAJF-5rifwB05-qVvVlA1ceA2f8YWC1U?usp=sharing)
 
 ## Week 2
 - [Introduction to Quantum Computing]
