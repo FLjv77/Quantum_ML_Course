@@ -19,7 +19,7 @@
 ## Week 2
 - Introduction to Quantum Computing
 - Single-Qubit Gates
-- Circuits with Many Qubits Part 1
+- Many Qubits Gates Part 1
 - Unfortunetly, No Video link is available
 
 
