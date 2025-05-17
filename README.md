@@ -22,6 +22,11 @@
 - Many Qubits Gates Part 1
 - Unfortunetly, No Video link is available
 
+## Week 2
+- Operations on density matrix
+- Random state generator
+- Quantum channels
+- [Video Link](https://www.dropbox.com/scl/fo/wd8z1qjsqjz3xcqad874e/AEvOtf2D3ddJc8DDKq8Lv04?rlkey=girputzmugna65il0bfm2zfw3&st=fqyblg03&dl=0)
 
 ### **Why Quantum Machine Learning?**  
 Quantum Machine Learning (QML) leverages the principles of quantum mechanics to enhance classical ML algorithms. With **PennyLane**, you can design and optimize quantum circuits just like neural networks, enabling hybrid quantum-classical models for:  
