@@ -22,7 +22,7 @@
 - Many Qubits Gates Part 1
 - Unfortunetly, No Video link is available
 
-## Week 2
+## Week 3
 - Operations on density matrix
 - Random state generator
 - Quantum channels
