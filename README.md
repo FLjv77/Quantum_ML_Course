@@ -28,6 +28,20 @@
 - Quantum channels
 - [Video Link](https://www.dropbox.com/scl/fo/wd8z1qjsqjz3xcqad874e/AEvOtf2D3ddJc8DDKq8Lv04?rlkey=girputzmugna65il0bfm2zfw3&st=fqyblg03&dl=0)
 
+## Week 4
+- No cloning
+- Quantum Error Correction
+- Shor Code
+- [Video Link](https://www.dropbox.com/scl/fi/q89tq4qra941djbh0a0wi/1.mp4?rlkey=slwv2hy8kxwzeaaau2farpe84&st=twq0bl8g&dl=0)
+
+## Week 5
+- Amplitude Embedding
+- Angle Embedding
+- Basis Embedding
+- Qjit (Quantum just-in-time)
+- [Video Link](https://www.dropbox.com/scl/fo/kqzpochgh8qcw8x92yetd/ALBQOPCCpZzrMlahsCrXGkM?rlkey=crvm00puwxmf7imfwrvmreqh8&st=g2mpgi83&dl=0)
+
+
 ### **Why Quantum Machine Learning?**  
 Quantum Machine Learning (QML) leverages the principles of quantum mechanics to enhance classical ML algorithms. With **PennyLane**, you can design and optimize quantum circuits just like neural networks, enabling hybrid quantum-classical models for:  
 - 🔍 **Faster optimization** in high-dimensional spaces  
